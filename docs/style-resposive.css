@@ -78,11 +78,11 @@ Button {
 }
 
 .text-above {
-    top: -4vw; /* Ajusta la posición vertical del texto arriba de la flor relativo al viewport width */
+    top: -8vw; /* Ajusta la posición vertical del texto arriba de la flor relativo al viewport width */
 }
 
 .text-below {
-    bottom: -4vw; /* Ajusta la posición vertical del texto debajo de la flor relativo al viewport width */
+    bottom: -7vw; /* Ajusta la posición vertical del texto debajo de la flor relativo al viewport width */
 }
 
 @keyframes pulsate {
@@ -146,8 +146,8 @@ Button {
     /* Media query para dispositivos móviles */
 
     .mid {
-        width: 40px;
-        height: 40px;
+        width: 60px;
+        height: 60px;
     }
 }
 
