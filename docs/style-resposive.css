@@ -143,11 +143,11 @@ Button {
 }
 
 @media (max-width: 768px) {
+    /* Media query para dispositivos móviles */
+
     .mid {
         width: 30px;
         height: 30px;
-        position: absolute; /* Ajustar la posición vertical en dispositivos móviles */
-        left: 13vw; /* Ajustar la posición horizontal en dispositivos móviles */
     }
 }
 
